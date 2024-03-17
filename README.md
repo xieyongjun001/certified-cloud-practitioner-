@@ -1,7 +1,7 @@
-# certified-cloud-practitioner-
+# aws certified-cloud-practitioner
 my exam preparation documents
 
-# Officail Metirial
+# Officail Material
 https://aws.amazon.com/cn/certification/certified-cloud-practitioner/
 
 # Video (Very Useful)
